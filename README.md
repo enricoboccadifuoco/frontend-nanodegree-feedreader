@@ -5,7 +5,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 ## How to run
 
 ``` bash
-[http://enricoboccadifuoco.github.io/frontend-nanodegree-feedreader/](http://enricoboccadifuoco.github.io/frontend-nanodegree-feedreader)
+http://enricoboccadifuoco.github.io/frontend-nanodegree-feedreader/
 ```
 
 ``` bash
