@@ -20,6 +20,9 @@ var allFeeds = [
     }, {
         name: 'Linear Digressions',
         url: 'http://feeds.feedburner.com/udacity-linear-digressions'
+    }, {
+        name: 'Dart News & Updates',
+        url: 'http://news.dartlang.org/feeds/posts/default?alt=rss'
     }
 ];
 
